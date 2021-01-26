@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/npm-20232A?style=flat-square&logo=npm&logoColor=red" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> ...   
     <img src="https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=vue.js&logoColor=5aa469" />
-    <img src="https://img.shields.io/badge/Flask-20232A?style=flat-square&logo=flask&logoColor=59886b" />
+    <img src="https://img.shields.io/badge/Django-20232A?style=flat-square&logo=django&logoColor=092E20" />
 
 </p>
 
