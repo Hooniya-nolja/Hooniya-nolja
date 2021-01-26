@@ -11,7 +11,7 @@
 
 <p>Thank you for visiting my Github !!</p>
 <p>Here's my...</p>
-<p></p>
+<br>
 
 ## Work Experience
 - (18.01 - 20.09) 홍익대학교 컴퓨터공학 중앙동아리 HICC
