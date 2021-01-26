@@ -49,7 +49,7 @@
 - Web
 - Front-end programming
 - Back-end programming
-- Foreign languages  ex) Japanese
+- Foreign languages    ex) Japanese
 - Relationships
 
 
